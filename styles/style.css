@@ -171,6 +171,9 @@ hr{
     border-radius: 17px;
     padding: 6px 7px;
 }
+.course-author{
+    color: #ED6B4F;
+}
 
 /* ------------------
    Media Queries
